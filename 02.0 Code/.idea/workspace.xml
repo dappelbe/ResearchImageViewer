@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12ab7ff2-3609-4b1b-b1b9-0b8f515a040d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/css/sb-admin-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/img/undraw_posting_photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/img/uox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/img/uox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/demo/chart-area-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/demo/chart-bar-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/demo/chart-pie-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/demo/datatables-demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/sb-admin-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/js/sb-admin-2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/views/insecure.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResearchImageViewer/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/RIM/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="C:\ProgramData\ComposerSetup\bin\composer.phar" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Projects\PHP\ResearchImageViewer\02.0 Code\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="$PROJECT_DIR$/RIM/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/RIM/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/RIM/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/RIM/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/RIM/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/RIM/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/RIM/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/RIM/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/RIM/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/RIM/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/RIM/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/RIM/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/RIM/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/RIM/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/RIM/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/RIM/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/RIM/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/RIM/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/RIM/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/RIM/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/RIM/vendor/composer" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/RIM/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/RIM/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/RIM/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/RIM/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/RIM/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/RIM/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/RIM/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/RIM/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/RIM/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/RIM/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/RIM/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/RIM/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/RIM/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/RIM/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/RIM/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/RIM/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/RIM/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/RIM/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/RIM/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/RIM/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/RIM/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UpvlTWG022OicVJcx28mrwubCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12ab7ff2-3609-4b1b-b1b9-0b8f515a040d" name="Default Changelist" comment="" />
+      <created>1576066502169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576066502169</updated>
+      <workItem from="1576066504846" duration="1162000" />
+      <workItem from="1576092846735" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
